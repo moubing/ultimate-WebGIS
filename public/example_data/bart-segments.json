@@ -1,0 +1,406 @@
+[
+  {
+    "inbound": 72633,
+    "outbound": 74735,
+
+    "fromName": "19th St. Oakland (19TH)",
+    "fromCoordinates": [-122.269029, 37.80787],
+    "toName": "12th St. Oakland City Center (12TH)",
+    "toCoordinates": [-122.271604, 37.803664]
+  },
+  {
+    "inbound": 65042,
+    "outbound": 67529,
+
+    "fromName": "12th St. Oakland City Center (12TH)",
+    "fromCoordinates": [-122.271604, 37.803664],
+    "toName": "West Oakland (WOAK)",
+    "toCoordinates": [-122.294582, 37.804675]
+  },
+  {
+    "inbound": 0,
+    "outbound": 23821,
+
+    "fromName": "Lake Merritt (LAKE)",
+    "fromCoordinates": [-122.265609, 37.797484],
+    "toName": "12th St. Oakland City Center (12TH)",
+    "toCoordinates": [-122.271604, 37.803664]
+  },
+  {
+    "inbound": 62964,
+    "outbound": 58788,
+
+    "fromName": "16th St. Mission (16TH)",
+    "fromCoordinates": [-122.419694, 37.765062],
+    "toName": "Civic Center/UN Plaza (CIVC)",
+    "toCoordinates": [-122.413756, 37.779528]
+  },
+  {
+    "inbound": 55134,
+    "outbound": 51019,
+
+    "fromName": "24th St. Mission (24TH)",
+    "fromCoordinates": [-122.418466, 37.752254],
+    "toName": "16th St. Mission (16TH)",
+    "toCoordinates": [-122.419694, 37.765062]
+  },
+  {
+    "inbound": 67975,
+    "outbound": 70088,
+
+    "fromName": "MacArthur (MCAR)",
+    "fromCoordinates": [-122.267227, 37.828415],
+    "toName": "19th St. Oakland (19TH)",
+    "toCoordinates": [-122.269029, 37.80787]
+  },
+  {
+    "inbound": 45831,
+    "outbound": 42007,
+
+    "fromName": "Glen Park (GLEN)",
+    "fromCoordinates": [-122.434092, 37.732921],
+    "toName": "24th St. Mission (24TH)",
+    "toCoordinates": [-122.418466, 37.752254]
+  },
+  {
+    "inbound": 4158,
+    "outbound": 4000,
+
+    "fromName": "Richmond (RICH)",
+    "fromCoordinates": [-122.353165, 37.936887],
+    "toName": "El Cerrito del Norte (DELN)",
+    "toCoordinates": [-122.317269, 37.925655]
+  },
+  {
+    "inbound": 12012,
+    "outbound": 12338,
+
+    "fromName": "El Cerrito del Norte (DELN)",
+    "fromCoordinates": [-122.317269, 37.925655],
+    "toName": "El Cerrito Plaza (PLZA)",
+    "toCoordinates": [-122.299272, 37.903059]
+  },
+  {
+    "inbound": 16343,
+    "outbound": 16856,
+
+    "fromName": "El Cerrito Plaza (PLZA)",
+    "fromCoordinates": [-122.299272, 37.903059],
+    "toName": "North Berkeley (NBRK)",
+    "toCoordinates": [-122.283451, 37.87404]
+  },
+  {
+    "inbound": 20199,
+    "outbound": 20909,
+
+    "fromName": "North Berkeley (NBRK)",
+    "fromCoordinates": [-122.283451, 37.87404],
+    "toName": "Downtown Berkeley (DBRK)",
+    "toCoordinates": [-122.268045, 37.869867]
+  },
+  {
+    "inbound": 26650,
+    "outbound": 28041,
+
+    "fromName": "Downtown Berkeley (DBRK)",
+    "fromCoordinates": [-122.268045, 37.869867],
+    "toName": "Ashby (ASHB)",
+    "toCoordinates": [-122.26978, 37.853024]
+  },
+  {
+    "inbound": 30485,
+    "outbound": 31757,
+
+    "fromName": "Ashby (ASHB)",
+    "fromCoordinates": [-122.26978, 37.853024],
+    "toName": "MacArthur (MCAR)",
+    "toCoordinates": [-122.267227, 37.828415]
+  },
+  {
+    "inbound": 36018,
+    "outbound": 36634,
+
+    "fromName": "Rockridge (ROCK)",
+    "fromCoordinates": [-122.251793, 37.844601],
+    "toName": "MacArthur (MCAR)",
+    "toCoordinates": [-122.267227, 37.828415]
+  },
+  {
+    "inbound": 109373,
+    "outbound": 111316,
+
+    "fromName": "West Oakland (WOAK)",
+    "fromCoordinates": [-122.294582, 37.804675],
+    "toName": "Embarcadero (EMBR)",
+    "toCoordinates": [-122.396742, 37.792976]
+  },
+  {
+    "inbound": 39030,
+    "outbound": 38961,
+
+    "fromName": "Lake Merritt (LAKE)",
+    "fromCoordinates": [-122.265609, 37.797484],
+    "toName": "West Oakland (WOAK)",
+    "toCoordinates": [-122.294582, 37.804675]
+  },
+  {
+    "inbound": 94808,
+    "outbound": 86301,
+
+    "fromName": "Montgomery St. (MONT)",
+    "fromCoordinates": [-122.401407, 37.789256],
+    "toName": "Embarcadero (EMBR)",
+    "toCoordinates": [-122.396742, 37.792976]
+  },
+  {
+    "inbound": 81351,
+    "outbound": 71139,
+
+    "fromName": "Powell St. (POWL)",
+    "fromCoordinates": [-122.406857, 37.784991],
+    "toName": "Montgomery St. (MONT)",
+    "toCoordinates": [-122.401407, 37.789256]
+  },
+  {
+    "inbound": 74091,
+    "outbound": 67746,
+
+    "fromName": "Civic Center/UN Plaza (CIVC)",
+    "fromCoordinates": [-122.413756, 37.779528],
+    "toName": "Powell St. (POWL)",
+    "toCoordinates": [-122.406857, 37.784991]
+  },
+  {
+    "inbound": 39295,
+    "outbound": 36129,
+
+    "fromName": "Balboa Park (BALB)",
+    "fromCoordinates": [-122.447414, 37.721981],
+    "toName": "Glen Park (GLEN)",
+    "toCoordinates": [-122.434092, 37.732921]
+  },
+  {
+    "inbound": 29472,
+    "outbound": 27661,
+
+    "fromName": "Daly City (DALY)",
+    "fromCoordinates": [-122.469081, 37.706121],
+    "toName": "Balboa Park (BALB)",
+    "toCoordinates": [-122.447414, 37.721981]
+  },
+  {
+    "inbound": 22172,
+    "outbound": 20545,
+
+    "fromName": "Colma (COLM)",
+    "fromCoordinates": [-122.466233, 37.684638],
+    "toName": "Daly City (DALY)",
+    "toCoordinates": [-122.469081, 37.706121]
+  },
+  {
+    "inbound": 18363,
+    "outbound": 16922,
+
+    "fromName": "South San Francisco (SSAN)",
+    "fromCoordinates": [-122.444116, 37.664174],
+    "toName": "Colma (COLM)",
+    "toCoordinates": [-122.466233, 37.684638]
+  },
+  {
+    "inbound": 15144,
+    "outbound": 13801,
+
+    "fromName": "San Bruno (SBRN)",
+    "fromCoordinates": [-122.416038, 37.637753],
+    "toName": "South San Francisco (SSAN)",
+    "toCoordinates": [-122.444116, 37.664174]
+  },
+  {
+    "inbound": 6275,
+    "outbound": 5792,
+
+    "fromName": "Millbrae (MLBR)",
+    "fromCoordinates": [-122.38666, 37.599787],
+    "toName": "San Bruno (SBRN)",
+    "toCoordinates": [-122.416038, 37.637753]
+  },
+  {
+    "inbound": 5478,
+    "outbound": 4610,
+
+    "fromName": "San Francisco Int'l Airport (SFIA)",
+    "fromCoordinates": [-122.392612, 37.616035],
+    "toName": "San Bruno (SBRN)",
+    "toCoordinates": [-122.416038, 37.637753]
+  },
+  {
+    "inbound": 0,
+    "outbound": 515,
+
+    "fromName": "San Francisco Int'l Airport (SFIA)",
+    "fromCoordinates": [-122.392612, 37.616035],
+    "toName": "Millbrae (MLBR)",
+    "toCoordinates": [-122.38666, 37.599787]
+  },
+  {
+    "inbound": 47842,
+    "outbound": 47967,
+
+    "fromName": "Fruitvale (FTVL)",
+    "fromCoordinates": [-122.224274, 37.774963],
+    "toName": "Lake Merritt (LAKE)",
+    "toCoordinates": [-122.265609, 37.797484]
+  },
+  {
+    "inbound": 43105,
+    "outbound": 42921,
+
+    "fromName": "Coliseum/Oakland Airport (COLS)",
+    "fromCoordinates": [-122.197273, 37.754006],
+    "toName": "Fruitvale (FTVL)",
+    "toCoordinates": [-122.224274, 37.774963]
+  },
+  {
+    "inbound": 39490,
+    "outbound": 39238,
+
+    "fromName": "San Leandro (SANL)",
+    "fromCoordinates": [-122.161311, 37.722619],
+    "toName": "Coliseum/Oakland Airport (COLS)",
+    "toCoordinates": [-122.197273, 37.754006]
+  },
+  {
+    "inbound": 35239,
+    "outbound": 34901,
+
+    "fromName": "Bay Fair (BAYF)",
+    "fromCoordinates": [-122.126871, 37.697185],
+    "toName": "San Leandro (SANL)",
+    "toCoordinates": [-122.161311, 37.722619]
+  },
+  {
+    "inbound": 19142,
+    "outbound": 18921,
+
+    "fromName": "Hayward (HAYW)",
+    "fromCoordinates": [-122.087967, 37.670399],
+    "toName": "Bay Fair (BAYF)",
+    "toCoordinates": [-122.126871, 37.697185]
+  },
+  {
+    "inbound": 13169,
+    "outbound": 13102,
+
+    "fromName": "Castro Valley (CAST)",
+    "fromCoordinates": [-122.075567, 37.690754],
+    "toName": "Bay Fair (BAYF)",
+    "toCoordinates": [-122.126871, 37.697185]
+  },
+  {
+    "inbound": 15551,
+    "outbound": 15288,
+
+    "fromName": "South Hayward (SHAY)",
+    "fromCoordinates": [-122.057551, 37.6348],
+    "toName": "Hayward (HAYW)",
+    "toCoordinates": [-122.087967, 37.670399]
+  },
+  {
+    "inbound": 13039,
+    "outbound": 12957,
+
+    "fromName": "Union City (UCTY)",
+    "fromCoordinates": [-122.017867, 37.591208],
+    "toName": "South Hayward (SHAY)",
+    "toCoordinates": [-122.057551, 37.6348]
+  },
+  {
+    "inbound": 8657,
+    "outbound": 8580,
+
+    "fromName": "Fremont (FRMT)",
+    "fromCoordinates": [-121.9764, 37.557355],
+    "toName": "Union City (UCTY)",
+    "toCoordinates": [-122.017867, 37.591208]
+  },
+  {
+    "inbound": 6209,
+    "outbound": 6279,
+
+    "fromName": "Pittsburg/Bay Point (PITT)",
+    "fromCoordinates": [-121.945154, 38.018914],
+    "toName": "North Concord/Martinez (NCON)",
+    "toCoordinates": [-122.024597, 38.003275]
+  },
+  {
+    "inbound": 8889,
+    "outbound": 8814,
+
+    "fromName": "North Concord/Martinez (NCON)",
+    "fromCoordinates": [-122.024597, 38.003275],
+    "toName": "Concord (CONC)",
+    "toCoordinates": [-122.029095, 37.973737]
+  },
+  {
+    "inbound": 14170,
+    "outbound": 14062,
+
+    "fromName": "Concord (CONC)",
+    "fromCoordinates": [-122.029095, 37.973737],
+    "toName": "Pleasant Hill/Contra Costa Centre (PHIL)",
+    "toCoordinates": [-122.056013, 37.928403]
+  },
+  {
+    "inbound": 21095,
+    "outbound": 20852,
+
+    "fromName": "Pleasant Hill/Contra Costa Centre (PHIL)",
+    "fromCoordinates": [-122.056013, 37.928403],
+    "toName": "Walnut Creek (WCRK)",
+    "toCoordinates": [-122.067423, 37.905628]
+  },
+  {
+    "inbound": 26366,
+    "outbound": 26309,
+
+    "fromName": "Walnut Creek (WCRK)",
+    "fromCoordinates": [-122.067423, 37.905628],
+    "toName": "Lafayette (LAFY)",
+    "toCoordinates": [-122.123801, 37.893394]
+  },
+  {
+    "inbound": 29287,
+    "outbound": 29364,
+
+    "fromName": "Lafayette (LAFY)",
+    "fromCoordinates": [-122.123801, 37.893394],
+    "toName": "Orinda (ORIN)",
+    "toCoordinates": [-122.183791, 37.878361]
+  },
+  {
+    "inbound": 31857,
+    "outbound": 32005,
+    "fromName": "Orinda (ORIN)",
+    "fromCoordinates": [-122.183791, 37.878361],
+    "toName": "Rockridge (ROCK)",
+    "toCoordinates": [-122.251793, 37.844601]
+  },
+  {
+    "inbound": 7585,
+    "outbound": 7429,
+
+    "fromName": "Dublin/Pleasanton (DUBL)",
+    "fromCoordinates": [-121.900367, 37.701695],
+    "toName": "West Dublin/Pleasanton (WDUB)",
+    "toCoordinates": [-121.928099, 37.699759]
+  },
+  {
+    "inbound": 10762,
+    "outbound": 10744,
+
+    "fromName": "West Dublin/Pleasanton (WDUB)",
+    "fromCoordinates": [-121.928099, 37.699759],
+    "toName": "Castro Valley (CAST)",
+    "toCoordinates": [-122.075567, 37.690754]
+  }
+]
