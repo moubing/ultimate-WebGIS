@@ -13,6 +13,12 @@ pnpm dev
 # or
 bun dev
 ```
+```HTML
+<video width="320" height="240" controls>
+    <source src="https://moubing.github.io/pic/style.mp4" type="video/mp4">
+</video>
+```
+
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
