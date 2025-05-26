@@ -11,31 +11,31 @@ This is a lightweight and low-threshold universal WebGIS platform. Its core inno
 
 ![style_image](https://moubing.github.io/pic/style.png)
 
-[👉click me see video🥳](https://moubing.github.io/pic/style.mp4)
+[👉Click me to view the video🥳](https://moubing.github.io/pic/style.mp4)
 
 - **Switch map view**
 
 ![style_image](https://moubing.github.io/pic/view.png)
 
-[👉click me see video🥳](https://moubing.github.io/pic/view.mp4)
+[👉Click me to view the video🥳](https://moubing.github.io/pic/view.mp4)
 
 - **Spatial analysis**
 
 ![style_image](https://moubing.github.io/pic/vector.png)
 
-[👉click me see video🥳](https://moubing.github.io/pic/vector.mp4)
+[👉Click me to view the video🥳](https://moubing.github.io/pic/vector.mp4)
 
 - **Raster processing**
 
 ![style_image](https://moubing.github.io/pic/raster.png)
 
-[👉click me see video🥳](https://moubing.github.io/pic/raster.mp4)
+[👉Click me to view the video🥳](https://moubing.github.io/pic/raster.mp4)
 
 - **Attribute table**
 
 ![style_image](https://moubing.github.io/pic/table.png)
 
-[👉click me see video🥳](https://moubing.github.io/pic/table.mp4)
+[👉Click me to view the video🥳](https://moubing.github.io/pic/table.mp4)
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
