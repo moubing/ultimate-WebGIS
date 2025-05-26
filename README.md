@@ -27,9 +27,9 @@ This is a lightweight and low-threshold universal WebGIS platform. Its core inno
 
 - **Raster processing**
 
-![style_image](https://moubing.github.io/pic/style.png)
+![style_image](https://moubing.github.io/pic/raster.png)
 
-[👉click me see video🥳](https://moubing.github.io/pic/style.mp4)
+[👉click me see video🥳](https://moubing.github.io/pic/raster.mp4)
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
@@ -54,7 +54,6 @@ pnpm dev
 # or
 bun dev
 ```
-
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
