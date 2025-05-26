@@ -1,3 +1,44 @@
+# Introduction
+
+This is a lightweight and low-threshold universal WebGIS platform. Its core innovations are reflected in:
+
+- **Functional decoupling and modular design**: More than 20 basic functions such as map rendering, spatial measurement, and buffer analysis are encapsulated into independent React components. Users can enable them on demand through a configuration panel to avoid interference from redundant functions.
+- **Low-code interaction paradigm**: A visual expression editor is developed to simplify attribute and spatial queries.
+
+## Demo videos
+
+- **Style vector layer**
+
+![style_image](https://moubing.github.io/pic/style.png)
+
+[👉click me see video🥳](https://moubing.github.io/pic/style.mp4)
+
+- **Switch map view**
+
+![style_image](https://moubing.github.io/pic/view.png)
+
+[👉click me see video🥳](https://moubing.github.io/pic/view.mp4)
+
+- **Spatial analysis**
+
+![style_image](https://moubing.github.io/pic/vector.png)
+
+[👉click me see video🥳](https://moubing.github.io/pic/vector.mp4)
+
+- **Raster processing**
+
+![style_image](https://moubing.github.io/pic/style.png)
+
+[👉click me see video🥳](https://moubing.github.io/pic/style.mp4)
+
+This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+
+- **Attribute table**
+
+![style_image](https://moubing.github.io/pic/table.png)
+
+[👉click me see video🥳](https://moubing.github.io/pic/table.mp4)
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
